@@ -36,7 +36,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Home</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://townduty.com\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"http://townduty.netlify.com\"><strong>JOBS</strong></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://townduty.com\"></a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-primary-outline btn-primary\" data-app-selector=\".nav-item .btn\" href=\"https://www.facebook.com/townduty/\" target=\"_blank\">ఫేస్బుక్</a></li>",
           "logo": {
             "image": {
@@ -53,7 +53,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TownDuty.com</a>",
+          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"https://townduty.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TownDuty.com</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -68,6 +68,9 @@
               "font-family": "'Roboto Slab', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
               "font-size": "25px"
+            },
+            ".nav-link": {
+              "font-size": "23px"
             }
           }
         },

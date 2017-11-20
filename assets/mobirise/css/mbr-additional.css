@@ -7,6 +7,9 @@
   font-family: 'Roboto Slab', serif;
   font-size: 25px;
 }
+#menu-1 .nav-link {
+  font-size: 23px;
+}
 #content5-2 .mbr-section-title {
   text-align: center;
 }
