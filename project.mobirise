@@ -1,0 +1,250 @@
+{
+  "settings": {
+    "name": "townduty",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "versionFirst": "4.4.0",
+    "uniqCompNum": 17,
+    "versionPublish": "4.4.0",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Home</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-primary-outline btn-primary\" data-app-selector=\".nav-item .btn\" href=\"https://www.facebook.com/townduty/\" target=\"_blank\">ఫేస్బుక్</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/avatar-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-primary\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TownDuty.com</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".navbar-brand": {
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "<b>మహానగరాల్లో తప్ప పట్టణాల్లో ఉద్యోగాలు లేవా?</b>",
+          "caption": "<p>ఉన్నాయి ,కాని మన చిన్న పట్టణాల్లో ఉద్యోగఅవకాశాల కోసం వెతుకు కోవాలి అంటే అవకాశమే లేదు. ఆ ఉద్యోగాలు ఎవరికీ తెలియటం లేదు .నగరాలలో ఉద్యోగాలు naukri.com లాంటి వెబ్ సైట్ లో లభిస్తాయి . అలాంటి వెబ్ సైట్స్ చిన్న టౌన్ ల లో ఉన్న &nbsp;ఉద్యోగాలకి లేవు.</p><p>చిన్న పట్టణాలలో ఉన్న &nbsp;అవకాశాల ను, వ్యాపారస్తులు ,లోకల్ న్యూస్ పేపర్ లో గాని , లేదా తమ షాప్ లేదా వ్యాపార సంస్థ బయట ఒక చిన్న నోటీసు ద్వార తెలిపరుస్తున్నారు . కాని అలాంటి నోటీసులు ఎంతో మంది చూడరు.&nbsp;<span style=\"font-size: 1.25rem;\">ఆ అవకాశాలు అందరికి అందుబాటు లో వుండే ఒక చోట లిస్టు చేసి వుంటే , చదువుకుని జాబు కోసం చూసే వారికి ఎంతో ఉపయోగ పడుతుంది.&nbsp;</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            ".mbr-section-title B": {
+              "color": "#0275d8"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "<b>మీ వ్యాపారం లో పని చేయడానికి ఉద్యోగస్తులు కావాలా?</b>",
+          "caption": "<p>మీకు చిన్న పట్టణాల్లో వ్యాపారం ఉందా? &nbsp;మీ దగ్గర పని చేసేందుకు ఉద్యోగస్తులు కావలా? అలాంటి ఉద్యోగ అవకాశాలను మాకు తెలియ చేయండి . మేము వాటిని మా వెబ్ సైట్ లో పెట్టి అందరికి తెలియ చేస్తాము. మా వెబ్ సైట్ లో లిస్టు చేయడానికి మీ ఏమి చెల్లించనవసరం లేదు . మీరు చేయవలసిందల్లా మీ అవసరాలను క్లుప్తంగా రాసి మాకు అందిచంచడమే . &nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-9",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "వాట్స్ ఆప్ లో",
+          "caption1": "మీ దగ్గర ఉన్నఅవకాసం గురించి , మీ కావలిసిన అభ్యర్ధుల గురించి వివరాలు మాకు 8328103779 అన్న నెంబర్ కు పంపించండి . ఒక పేపర్ పైన రాసి ఫోటో తీసి పంపండి , చాలు.&nbsp;",
+          "title2": "ఫేస్బుక్ లో",
+          "caption2": "మీ దగ్గర ఉన్నఅవకాసం గురించి , మీ కావలిసిన అభ్యర్ధుల గురించి వివరాలను <a href=\"https://www.facebook.com/townduty/\" target=\"_blank\">ఫేస్స్ బుక్ లో మా పేజీ లోతెలియ చేయండి</a>.",
+          "title3": "Web Fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-c"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 &nbsp;townduty.com | WhatsApp : 8328103779",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-g",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>అలా అందిన వివరాలను మేము ఈ వెబ్ సైట్ లో ఉంచుతాము. ఎంత మంది తమ అవసరాలను ఇక్కడపెడితే, &nbsp;అంత మంది అభ్యర్థులకు ఉపయోగ పడుతుంది.&nbsp;&nbsp; &nbsp; ఎంత ఎక్కువ మంది అభ్యర్దులు వాటిని చూస్తే, &nbsp;అంత త్వరగా మీకు కావలిసిన అభ్యర్థులు మీకు లభిస్తారు.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-e"
+        }
+      ]
+    }
+  }
+}
